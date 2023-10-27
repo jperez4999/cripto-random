@@ -1,4 +1,3 @@
-import './App.css';
 import { useRandom } from './hooks/useRandom';
 
 function App() {
